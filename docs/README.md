@@ -4,6 +4,7 @@ Welcome to the Earthquake Catalog Workshop! This repository contains materials f
 
 Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (alphabetical order)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAI4EPS%2FEarthquake_Catalog_Workshop&label=views&labelColor=%23d9e3f0&countColor=%23263759)
 
 ## Workshop Plan (~ 4 hours)
 
