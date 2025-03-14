@@ -1,0 +1,44 @@
+site_name: "Earthquake Catalog Workshop"
+site_url: "https://ai4eps.github.io/Earthquake-Catalog-Workshop"
+site_author: ""
+site_description: ""
+repo_name: "Earthquake Catalog Workshop"
+repo_url: "https://github.com/ai4eps/Earthquake-Catalog-Workshop/"
+
+nav:
+  - Home: 'index.md'
+  - Introduction: 'introduction.md'
+  - Regional Seismic Networks: 'seismic_networks.md'
+  - Building Earthquake Catalogs: 
+    - Machine Learning: 'machine_learning.md'
+    - Template Matching: 'template_matching.md'
+  - Evaluating Earthquake Catalog: 'evaluating_catalog.md'
+
+theme:
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+
+plugins:
+  - search
+  # - autorefs
+  - mkdocs-jupyter:
+      ignore_h1_titles: true
+      # include_source: true
+      ignore: ["ADSeismic/examples/*/*.ipynb", "ADSeismic/examples/*/*/*.ipynb"]
+  - monorepo
+
+markdown_extensions:
+  - footnotes
+  - pymdownx.arithmatex:
+      generic: true
+
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-5P3JS5EJW8
+
