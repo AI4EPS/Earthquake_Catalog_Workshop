@@ -29,7 +29,6 @@ plugins:
       ignore_h1_titles: true
       # include_source: true
       ignore: ["ADSeismic/examples/*/*.ipynb", "ADSeismic/examples/*/*/*.ipynb"]
-  - monorepo
 
 markdown_extensions:
   - footnotes
