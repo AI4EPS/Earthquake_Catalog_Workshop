@@ -5,9 +5,9 @@ Welcome to the Earthquake Catalog Workshop! This repository contains materials f
 Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (alphabetical order)
 
 
-### Workshop Plan (~ 4 hours)
+## Workshop Plan (~ 4 hours)
 
-## Introductions & Overview
+### Introductions & Overview
 - Instructor intros
 - Workshop goals/schedule
 - Why earthquake catalogs and how to choose the right one?
