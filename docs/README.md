@@ -1,6 +1,6 @@
 # [Earthquake Catalog Workshop](https://ai4eps.github.io/Earthquake_Catalog_Workshop/)
 
-[![Website](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/actions/workflows/docs.yml/badge.svg)](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/actions/workflows/docs.yml)
+[![Website](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/actions/workflows/docs.yml/badge.svg)](https://ai4eps.github.io/Earthquake_Catalog_Workshop/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAI4EPS%2FEarthquake_Catalog_Workshop&label=views&labelColor=%23d9e3f0&countColor=%23263759&style=flat)
 
 
