@@ -1,10 +1,13 @@
-# Earthquake Catalog Workshop
+# [Earthquake Catalog Workshop](https://ai4eps.github.io/Earthquake_Catalog_Workshop/)
+
+[![Website](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/actions/workflows/docs.yml/badge.svg)](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/actions/workflows/docs.yml)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAI4EPS%2FEarthquake_Catalog_Workshop&label=views&labelColor=%23d9e3f0&countColor=%23263759&style=flat)
+
 
 Welcome to the Earthquake Catalog Workshop! This repository contains materials for a workshop on earthquake catalogs, including data, scripts, and documentation.
 
 Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (alphabetical order)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAI4EPS%2FEarthquake_Catalog_Workshop&label=views&labelColor=%23d9e3f0&countColor=%23263759&style=flat)
 
 ## Workshop Plan (~ 4 hours)
 
