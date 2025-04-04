@@ -25,7 +25,9 @@ nav:
         - Notebook: 'notebooks/machine_learning.ipynb'
       - Template Matching:
         - Slides: 'template_matching.md'
-        - Notebook: 'notebooks/template_matching.ipynb'
+        - Notebook1: 'notebooks/tm_one_template.ipynb'
+        - Notebook2: 'notebooks/tm_multiple_templates.ipynb'
+        - Notebook3: 'notebooks/tm_issues_w_detection_threshold.ipynb'
     - Evaluating and Analyzing Catalog: 
       - Slides: 'catalog_analysis.md'
       - Notebook: 'notebooks/catalog_analysis.ipynb'
