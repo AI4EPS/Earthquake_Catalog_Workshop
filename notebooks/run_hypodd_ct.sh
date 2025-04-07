@@ -18,10 +18,10 @@ fi
 cd $data_path
 
 if [ ! -d "HypoDD" ]; then
-  git clone git@github.com:zhuwq0/HypoDD.git
+  git clone https://github.com/zhuwq0/HypoDD.git
   # git clone git@github.com:AI4EPS/HypoDD_old.git HypoDD
   export PATH=$PATH:$PWD/HypoDD
-  make -C HypoDD/src/
+  make -C HypoDD/src/ > /dev/null 2>&1
 fi
 
 cat <<EOF > ph2dt.inp
