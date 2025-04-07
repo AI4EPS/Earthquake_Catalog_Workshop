@@ -1,0 +1,11 @@
+tensorflow
+kfp
+fsspec
+gcsfs
+wandb
+obspy
+cartopy
+tqdm
+pandas
+gmma
+s3fs
