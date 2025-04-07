@@ -3,7 +3,8 @@
   "hostRequirements": {
     "cpus": 4
   },
-  "postCreateCommand": "bash setup.sh",
+  "onCreateCommand": "bash setup.sh",
+  // "postCreateCommand": "bash setup.sh",
   "customizations": {
     "codespaces": {
       "openFiles": []
