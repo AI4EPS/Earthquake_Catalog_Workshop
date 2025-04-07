@@ -23,6 +23,8 @@ nav:
       - Machine Learning: 
         - Slides: 'machine_learning.md'
         - Notebook: 'notebooks/quakeflow.ipynb'
+        # - Ridegecrest: 'notebooks/quakeflow_ridgecrest.ipynb'
+        # - Hawaii: 'notebooks/quakeflow_hawaii.ipynb'
       - Template Matching:
         - Slides: 'template_matching.md'
         - Notebook1: 'notebooks/tm_one_template.ipynb'
