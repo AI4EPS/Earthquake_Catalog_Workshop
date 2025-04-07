@@ -22,7 +22,7 @@ nav:
     - Building Earthquake Catalog:
       - Machine Learning: 
         - Slides: 'machine_learning.md'
-        - Notebook: 'notebooks/machine_learning.ipynb'
+        - Notebook: 'notebooks/quakeflow.ipynb'
       - Template Matching:
         - Slides: 'template_matching.md'
         - Notebook1: 'notebooks/tm_one_template.ipynb'
