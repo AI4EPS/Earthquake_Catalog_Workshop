@@ -8,7 +8,9 @@ sudo apt install gfortran -y
 # conda env update -f=env.yaml --prefix .conda/quakeflow
 conda env create -f env.yaml --prefix .conda/quakeflow
 source activate .conda/quakeflow
-conda install cartopy s3fs obspy
+conda install cartopy s3fs obspy nb_conda_kernels ipykernel jupyter_server
+conda env export --prefix .conda/quakeflow > env.yaml
+
 
 # git clone --recursive https://github.com/AI4EPS/QuakeFlow.git notebooks/QuakeFlow/
 # cd notebooks/QuakeFlow/PhaseNet && git checkout master && cd ../
