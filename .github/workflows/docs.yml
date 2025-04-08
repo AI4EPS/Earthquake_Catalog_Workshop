@@ -16,4 +16,6 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material mkdocs-jupyter mkdocs-autorefs mkdocstrings mkdocstrings-python
       - run: mkdir -p docs/machine_learning && wget -O docs/machine_learning/SSA25_catalog_workshop_machine_learning.pdf https://github.com/AI4EPS/Earthquake_Catalog_Workshop/releases/download/Slides/SSA25_catalog_workshop_machine_learning.pdf
+      - run: mkdir -p docs/template_matching && wget -O docs/template_matching/SSA25_catalog_workshop_template_matching.pdf https://github.com/AI4EPS/Earthquake_Catalog_Workshop/releases/download/Slides/SSA25_catalog_workshop_template_matching.pdf
+      - run: wget -O docs/template_matching/animated_template_matching.mp4 https://github.com/AI4EPS/Earthquake_Catalog_Workshop/releases/download/Slides/animated_template_matching.mp4
       - run: mkdocs gh-deploy --force
