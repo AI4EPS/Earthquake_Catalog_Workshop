@@ -8,39 +8,39 @@ Welcome to the Earthquake Catalog Workshop! This repository contains materials f
 
 Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (alphabetical order)
 
-
-## Workshop Plan (~ 4 hours)
-
-### Introductions & Overview
+### 20 min - Introductions & Overview (All & Eric)
 - Instructor intros
 - Workshop goals/schedule
-- Why earthquake catalogs and how to choose the right one?
+- Why earthquake catalogs and how to choose the right one? [maybe discuss limitations and reasons for using different types of catalogs here?]
+- What is an eq catalog? Different end-users of eq catalogs? Scientific motivations for eq catalogs?
 
-### Regional Seismic Networks: Official Catalogs and Data Access
+### 45 min - Regional Seismic Networks: Official Catalogs and Data Access (Ellen & Gabrielle)
 - How regional catalogs are made and what they include
 - SCSN catalog and special datasets
 - ComCat
 - Accessing waveform data and metadata
 - Citing network data & catalogs
 
-### Break
+### 10 min - Break
 
-### Building Custom Catalogs with Modern Tools
-- Machine Learning
-- Template Matching
-- Magnitudes
+### 105 min - Building Custom Catalogs with Modern Tools
+- Event Pipeline + Machine Learning (Weiqiang & Clara) - 60 min
+- Template Matching (Eric) - 45 min
 
-### Break
+### 10 min - Break
 
-### Evaluating Catalog Quality
+### 35 min - Evaluating Catalog Quality (All)
 - Anomaly detection
 - Visualization tools
 - Magnitude of completeness
 - Quality control
 - Tips & tricks
 
-### Conclusion
+### 15 min - Conclusion (All & Clara)
 - Discuss limitations and reasons for using different types of catalogs
+- When to use STA/LTA vs deep-learning vs template-matching vs relocated
 - Combining different methods (also with STA/LTA?) depending on application
+- How does a user choose among the many options for deep-learning pickers, event associators, event location methods?
 
-### Discussion, Questions, & Tutorial Help
+### 20 min - Discussion, Questions, & Tutorial Help
+
