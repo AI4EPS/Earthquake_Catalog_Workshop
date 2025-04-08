@@ -44,3 +44,4 @@ Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (a
 
 ### 20 min - Discussion, Questions, & Tutorial Help
 
+[References](https://ai4eps.github.io/Earthquake_Catalog_Workshop/reference/)
