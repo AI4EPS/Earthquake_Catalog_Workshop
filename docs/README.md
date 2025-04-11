@@ -8,40 +8,40 @@ Welcome to the Earthquake Catalog Workshop! This repository contains materials f
 
 Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (alphabetical order)
 
-### 20 min - Introductions & Overview (All & Eric)
+### Introductions & Overview
 - Instructor intros
 - Workshop goals/schedule
 - Why earthquake catalogs and how to choose the right one? [maybe discuss limitations and reasons for using different types of catalogs here?]
 - What is an eq catalog? Different end-users of eq catalogs? Scientific motivations for eq catalogs?
 
-### 45 min - Regional Seismic Networks: Official Catalogs and Data Access (Ellen & Gabrielle)
+### Regional Seismic Networks: Official Catalogs and Data Access (Ellen & Gabrielle)
 - How regional catalogs are made and what they include
 - SCSN catalog and special datasets
 - ComCat
 - Accessing waveform data and metadata
 - Citing network data & catalogs
 
-### 10 min - Break
+### Break
 
-### 105 min - Building Custom Catalogs with Modern Tools
-- Event Pipeline + Machine Learning (Weiqiang & Clara) - 60 min
-- Template Matching (Eric) - 45 min
+### Building Custom Catalogs with Modern Tools
+- Event Pipeline + Machine Learning (Weiqiang & Clara)
+- Template Matching (Eric)
 
-### 10 min - Break
+### Break
 
-### 35 min - Evaluating Catalog Quality (All)
+### Evaluating Catalog Quality
 - Anomaly detection
 - Visualization tools
 - Magnitude of completeness
 - Quality control
 - Tips & tricks
 
-### 15 min - Conclusion (All & Clara)
+### Conclusion
 - Discuss limitations and reasons for using different types of catalogs
 - When to use STA/LTA vs deep-learning vs template-matching vs relocated
 - Combining different methods (also with STA/LTA?) depending on application
 - How does a user choose among the many options for deep-learning pickers, event associators, event location methods?
 
-### 20 min - Discussion, Questions, & Tutorial Help
+### Discussion, Questions, & Tutorial Help
 
 [References](https://ai4eps.github.io/Earthquake_Catalog_Workshop/reference/)
