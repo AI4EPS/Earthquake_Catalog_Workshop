@@ -17,8 +17,9 @@ Contributors: [Eric Beauce](https://lamont.columbia.edu/directory/eric-beauce), 
 ### [Regional Seismic Networks: Official Catalogs and Data Access](https://ai4eps.github.io/Earthquake_Catalog_Workshop/seismic_network/) (Ellen & Gabrielle)
 - How regional catalogs are made and what they include
 - SCSN catalog and special datasets
-- ComCat
-- Accessing waveform data and metadata
+- ComCat (ANSS)
+- NSF Sage (Earthscope)
+- Accessing waveform data and metadata - AWS Open Dataset vs FDSN Webservices
 - Citing network data & catalogs
 
 ### Break
