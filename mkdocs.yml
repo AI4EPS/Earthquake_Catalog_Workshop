@@ -16,9 +16,7 @@ repo_url: "https://github.com/ai4eps/Earthquake-Catalog-Workshop/"
 nav:
     - README: 'README.md'
     - Introduction: 'introduction.md'
-    - Regional Seismic Network: 
-      - Slides: 'seismic_network.md'
-      - Notebook: 'notebooks/seismic_network.ipynb'
+    - Regional Seismic Network: 'seismic_network.md'
     - Building Earthquake Catalog:
       - Machine Learning: 
         - Slides: 'machine_learning.md'
@@ -30,9 +28,8 @@ nav:
         - Notebook1: 'notebooks/tm_one_template.ipynb'
         - Notebook2: 'notebooks/tm_multiple_templates.ipynb'
         - Notebook3: 'notebooks/tm_issues_w_detection_threshold.ipynb'
-    - Evaluating and Analyzing Catalog: 
-      - Slides: 'catalog_analysis.md'
-      - Notebook: 'notebooks/catalog_analysis.ipynb'
+    - Evaluating Earthquake Catalog: 'catalog_analysis.md'
+    - Conclusions: 'conclusion.md'
 
 theme:
   name: "material"
