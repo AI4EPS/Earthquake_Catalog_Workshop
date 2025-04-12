@@ -46,4 +46,14 @@ Contributors: [Eric Beauce](https://lamont.columbia.edu/directory/eric-beauce), 
 
 If you have any questions about the workshop materials or encounter any issues, please [open an issue](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/issues) on our GitHub repository.
 
+```
+@misc{earthquake_catalog_workshop_2025,
+  author = {Beauce, Eric and Tepp, Gabrielle and Yoon, Clara and Yu, Ellen and Zhu, Weiqiang},
+  title = {Building a High Resolution Earthquake Catalog from Raw Waveforms: A Step-by-Step Guide},
+  year = {2025},
+  url = {https://ai4eps.github.io/Earthquake_Catalog_Workshop/},
+  note = {Seismological Society of America (SSA) Annual Meeting, 2025}
+}
+```
+
 <!-- [References](https://ai4eps.github.io/Earthquake_Catalog_Workshop/reference/) -->
