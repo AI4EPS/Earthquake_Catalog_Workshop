@@ -16,7 +16,9 @@ repo_url: "https://github.com/ai4eps/Earthquake-Catalog-Workshop/"
 nav:
     - README: 'README.md'
     - Introduction: 'introduction.md'
-    - Regional Seismic Network: 'seismic_network.md'
+    - Regional Seismic Network: 
+      - Slides: 'seismic_network.md'
+      - Tutorials: 'seismic_network/tutorials.md'
     - Building Earthquake Catalog:
       - Machine Learning: 
         - Slides: 'machine_learning.md'
