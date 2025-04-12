@@ -46,4 +46,4 @@ Contributors: [Eric Beauce](https://lamont.columbia.edu/directory/eric-beauce), 
 
 If you have any questions about the workshop materials or encounter any issues, please [open an issue](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/issues) on our GitHub repository.
 
-[References](https://ai4eps.github.io/Earthquake_Catalog_Workshop/reference/)
+<!-- [References](https://ai4eps.github.io/Earthquake_Catalog_Workshop/reference/) -->
