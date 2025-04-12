@@ -6,15 +6,15 @@
 
 Welcome to the Earthquake Catalog Workshop! This repository contains materials for a workshop on earthquake catalogs, including data, scripts, and documentation.
 
-Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (alphabetical order)
+Contributors: [Eric Beauce](https://lamont.columbia.edu/directory/eric-beauce), [Gabrielle Tepp](https://www.seismosoc.org/news/at-work-gabrielle-tepp/), [Clara Yoon](https://www.its.caltech.edu/~cyoon/), [Ellen Yu](https://seismolab.caltech.edu/people/ellen-yu), [Weiqiang Zhu](https://ai4eps.github.io/homepage/) (alphabetical order)
 
-### Introductions & Overview
+### [Introductions](https://ai4eps.github.io/Earthquake_Catalog_Workshop/introduction/)
 - Instructor intros
 - Workshop goals/schedule
-- Why earthquake catalogs and how to choose the right one? [maybe discuss limitations and reasons for using different types of catalogs here?]
-- What is an eq catalog? Different end-users of eq catalogs? Scientific motivations for eq catalogs?
+- What is an earthquake catalog? Different end-users and scientific motivations
+- Why earthquake catalogs and how to choose the right one?
 
-### Regional Seismic Networks: Official Catalogs and Data Access (Ellen & Gabrielle)
+### [Regional Seismic Networks: Official Catalogs and Data Access](https://ai4eps.github.io/Earthquake_Catalog_Workshop/seismic_network/) (Ellen & Gabrielle)
 - How regional catalogs are made and what they include
 - SCSN catalog and special datasets
 - ComCat
@@ -24,24 +24,26 @@ Contributors: Eric Beauce, Gabrielle Tepp, Clara Yoon, Ellen Yu, Weiqiang Zhu (a
 ### Break
 
 ### Building Custom Catalogs with Modern Tools
-- Event Pipeline + Machine Learning (Weiqiang & Clara)
-- Template Matching (Eric)
+- [Catalog Workflow + Machine Learning](https://ai4eps.github.io/Earthquake_Catalog_Workshop/machine_learning/) (Weiqiang & Clara)
+- [Template Matching](https://ai4eps.github.io/Earthquake_Catalog_Workshop/template_matching/) (Eric)
 
 ### Break
 
-### Evaluating Catalog Quality
+### [Evaluating Catalog Quality](https://ai4eps.github.io/Earthquake_Catalog_Workshop/catalog_analysis/)
 - Anomaly detection
 - Visualization tools
 - Magnitude of completeness
 - Quality control
 - Tips & tricks
 
-### Conclusion
+### [Conclusions](https://ai4eps.github.io/Earthquake_Catalog_Workshop/conclusion/)
 - Discuss limitations and reasons for using different types of catalogs
-- When to use STA/LTA vs deep-learning vs template-matching vs relocated
-- Combining different methods (also with STA/LTA?) depending on application
+- When to use STA/LTA vs. deep-learning vs. template-matching vs relocated
+- Combining different methods depending on application
 - How does a user choose among the many options for deep-learning pickers, event associators, event location methods?
 
 ### Discussion, Questions, & Tutorial Help
+
+If you have any questions about the workshop materials or encounter any issues, please [open an issue](https://github.com/AI4EPS/Earthquake_Catalog_Workshop/issues) on our GitHub repository.
 
 [References](https://ai4eps.github.io/Earthquake_Catalog_Workshop/reference/)
