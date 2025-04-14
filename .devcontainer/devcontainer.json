@@ -3,7 +3,7 @@
   "hostRequirements": {
     "cpus": 4
   },
-  "onCreateCommand": "bash setup.sh",
+  // "onCreateCommand": "bash setup.sh",
   // "postCreateCommand": "bash setup.sh",
   "postCreateCommand": "git config pull.rebase true && git pull origin main",
   "customizations": {
