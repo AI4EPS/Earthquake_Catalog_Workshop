@@ -48,7 +48,8 @@ plugins:
   - mkdocs-jupyter:
       ignore_h1_titles: true
       # include_source: true
-      ignore: ["ADSeismic/examples/*/*.ipynb", "ADSeismic/examples/*/*/*.ipynb"]
+      include_requirejs: true
+      custom_mathjax_url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 
 markdown_extensions:
   - footnotes
